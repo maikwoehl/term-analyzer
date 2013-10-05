@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Taschenrechner1_CLI/Main.cs">
+    <Files>
+      <File FileName="Taschenrechner1_CLI/Main.cs" Line="16" Column="4" />
+      <File FileName="Taschenrechner1_CLI/Taschenrechner.cs" Line="3" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="Maik Wöhl" Email="maik.woehl@googlemail.com" Copyright="Maik Wöhl" Company="DaemonTutorials" Trademark="" />
+</Properties>
