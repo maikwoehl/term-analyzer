@@ -10,7 +10,7 @@
   </import>
   <widget class="Gtk.Window" id="MainWindow" design-size="286 110">
     <property name="MemberName" />
-    <property name="Title" translatable="yes">Rechner</property>
+    <property name="Title" translatable="yes">Term-Analyzer</property>
     <property name="WindowPosition">CenterOnParent</property>
     <signal name="DeleteEvent" handler="OnDeleteEvent" />
     <child>
@@ -35,7 +35,7 @@
             <property name="MemberName" />
             <property name="CanFocus">True</property>
             <property name="Type">TextOnly</property>
-            <property name="Label">Calculate</property>
+            <property name="Label">Analyze</property>
             <property name="UseUnderline">True</property>
             <signal name="Clicked" handler="OnButton1Clicked" />
           </widget>

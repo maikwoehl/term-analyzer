@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschenrechner1_CLI", "Taschenrechner1_CLI\Taschenrechner1_CLI.csproj", "{BEEDBB32-2569-435A-B98B-7E349E70B88D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Term-Analyzer", "Taschenrechner1_CLI\Term-Analyzer.csproj", "{BEEDBB32-2569-435A-B98B-7E349E70B88D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,7 +15,7 @@ Global
 		{BEEDBB32-2569-435A-B98B-7E349E70B88D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Taschenrechner1_CLI\Taschenrechner1_CLI.csproj
+		StartupItem = Taschenrechner1_CLI\Term-Analyzer.csproj
 		description = Calculate and analyze mathematical terms.
 		version = 0.2
 	EndGlobalSection

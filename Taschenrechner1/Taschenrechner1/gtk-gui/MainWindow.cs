@@ -15,7 +15,7 @@ public partial class MainWindow
 		global::Stetic.Gui.Initialize (this);
 		// Widget MainWindow
 		this.Name = "MainWindow";
-		this.Title = "Rechner";
+		this.Title = "Term-Analyzer";
 		this.WindowPosition = ((global::Gtk.WindowPosition)(4));
 		// Container child MainWindow.Gtk.Container+ContainerChild
 		this.fixed1 = new global::Gtk.Fixed ();
@@ -36,7 +36,7 @@ public partial class MainWindow
 		this.button1.CanFocus = true;
 		this.button1.Name = "button1";
 		this.button1.UseUnderline = true;
-		this.button1.Label = "Calculate";
+		this.button1.Label = "Analyze";
 		this.fixed1.Add (this.button1);
 		global::Gtk.Fixed.FixedChild w2 = ((global::Gtk.Fixed.FixedChild)(this.fixed1 [this.button1]));
 		w2.X = 187;
